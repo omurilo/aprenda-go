@@ -1,3 +1,73 @@
+[[exercises]]
+name = "cap-9-1"
+path = "exercises/Cap.9/composite-literal-and-range.go"
+mode = "compile"
+hint = """
+Literal composta e for range"""
+
+[[exercises]]
+name = "cap-9-2"
+path = "exercises/Cap.9/composite-literal-and-range-2.go"
+mode = "compile"
+hint = """
+Literal composta e for range 2"""
+
+[[exercises]]
+name = "cap-9-3"
+path = "exercises/Cap.9/slicing-printing-and-len.go"
+mode = "compile"
+hint = """
+Fatiando uma slice"""
+
+[[exercises]]
+name = "cap-9-4"
+path = "exercises/Cap.9/append-and-printing.go"
+mode = "compile"
+hint = """
+Anexando valores a slice"""
+
+[[exercises]]
+name = "cap-9-5"
+path = "exercises/Cap.9/slicing-and-append.go"
+mode = "compile"
+hint = """
+Fatiando e anexando"""
+
+[[exercises]]
+name = "cap-9-6"
+path = "exercises/Cap.9/make-len-cap-range.go"
+mode = "compile"
+hint = """
+Criando uma slice com make e demonstrando len, cap e valores"""
+
+[[exercises]]
+name = "cap-9-7"
+path = "exercises/Cap.9/multi-dimensions.go"
+mode = "compile"
+hint = """
+Criando slices multi dimensionais"""
+
+[[exercises]]
+name = "cap-9-8"
+path = "exercises/Cap.9/map-strings-arrays.go"
+mode = "compile"
+hint = """
+Criando maps com valores de array de strings"""
+
+[[exercises]]
+name = "cap-9-9"
+path = "exercises/Cap.9/append-to-map-and-range.go"
+mode = "compile"
+hint = """
+Anexando valores ao map e demonstrando com range"""
+
+[[exercises]]
+name = "cap-9-10"
+path = "exercises/Cap.9/delete-from-map-and-range.go"
+mode = "compile"
+hint = """
+Removendo valores do map e demonstrando com range"""
+
 [[modules]]
 name = "cap-8-slice-1"
 path = "modules/Cap.8/Slices/slice-1.go"
