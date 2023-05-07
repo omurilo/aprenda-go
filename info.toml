@@ -1,0 +1,69 @@
+[[modules]]
+name = "cap-8-slice-1"
+path = "modules/Cap.8/Slices/slice-1.go"
+mode = "compile"
+hint = """
+Literal composta"""
+
+[[modules]]
+name = "cap-8-slice-2"
+path = "modules/Cap.8/Slices/slice-2.go"
+mode = "compile"
+hint = """
+For range"""
+
+[[modules]]
+name = "cap-8-slice-3"
+path = "modules/Cap.8/Slices/slice-3.go"
+mode = "compile"
+hint = """
+For literal"""
+
+[[modules]]
+name = "cap-8-slice-4"
+path = "modules/Cap.8/Slices/slice-4.go"
+mode = "compile"
+hint = """
+Deletando itens da slice (fatiando)"""
+
+[[modules]]
+name = "cap-8-slice-5"
+path = "modules/Cap.8/Slices/slice-5.go"
+mode = "compile"
+hint = """
+Anexando (juntando) slices"""
+
+[[modules]]
+name = "cap-8-slice-6"
+path = "modules/Cap.8/Slices/slice-6.go"
+mode = "compile"
+hint = """
+Criando uma slice com make"""
+
+[[modules]]
+name = "cap-8-slice-7"
+path = "modules/Cap.8/Slices/slice-7.go"
+mode = "compile"
+hint = """
+Slice multi dimensionais"""
+
+[[modules]]
+name = "cap-8-slice-8"
+path = "modules/Cap.8/Slices/slice-8.go"
+mode = "compile"
+hint = """
+A surpresa do array subjacente"""
+
+[[modules]]
+name = "cap-8-maps"
+path = "modules/Cap.8/Maps/maps.go"
+mode = "compile"
+hint = """
+Introdução aos maps"""
+
+[[modules]]
+name = "cap-8-maps-range"
+path = "modules/Cap.8/Maps/maps-range.go"
+mode = "compile"
+hint = """
+For range e deletando"""
