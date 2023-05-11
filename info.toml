@@ -171,3 +171,220 @@ path = "modules/Cap.8/Maps/maps-range.go"
 mode = "compile"
 hint = """
 For range e deletando"""
+
+[[modules]]
+name = "cap-10-struct-1"
+path = "modules/Cap.10/Struct/1.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-10-struct-2"
+path = "modules/Cap.10/Struct/2.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-10-struct-3"
+path = "modules/Cap.10/Struct/3.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-10-struct-4"
+path = "modules/Cap.10/Struct/4.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-1"
+path = "modules/Cap.12/Functions/1.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-2"
+path = "modules/Cap.12/Functions/2.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-3"
+path = "modules/Cap.12/Functions/3.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-4"
+path = "modules/Cap.12/Functions/4.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-5"
+path = "modules/Cap.12/Functions/5.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-5-1"
+path = "modules/Cap.12/Functions/5.1.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-6"
+path = "modules/Cap.12/Functions/6.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-7"
+path = "modules/Cap.12/Functions/7.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-8"
+path = "modules/Cap.12/Functions/8.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-9"
+path = "modules/Cap.12/Functions/9.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-10"
+path = "modules/Cap.12/Functions/10.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-11"
+path = "modules/Cap.12/Functions/11.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-11-1"
+path = "modules/Cap.12/Functions/11.1.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-12-functions-exercise-1"
+path = "modules/Cap.12/Functions/exercise.1.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-14-pointers-1"
+path = "modules/Cap.14/Pointers/1.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-14-pointers-2"
+path = "modules/Cap.14/Pointers/2.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-16-applications-bcrypt"
+path = "modules/Cap.16/Applications/bcrypt.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-16-applications-custom-sort"
+path = "modules/Cap.16/Applications/custom-sort.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-16-applications-json-decoder"
+path = "modules/Cap.16/Applications/json-decoder.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-16-applications-json-encoder"
+path = "modules/Cap.16/Applications/json-encoder.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-16-applications-json-marshal"
+path = "modules/Cap.16/Applications/json-marshal.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-16-applications-json-unmarshal"
+path = "modules/Cap.16/Applications/json-unmarshal.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-18-concurrence-1"
+path = "modules/Cap.18/Concurrence/1.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-18-concurrence-2"
+path = "modules/Cap.18/Concurrence/2.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-18-concurrence-3"
+path = "modules/Cap.18/Concurrence/3.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-18-concurrence-4"
+path = "modules/Cap.18/Concurrence/4.go"
+mode = "compile"
+hint = """
+HINT HERE"""
+
+[[modules]]
+name = "cap-19-pkgs"
+path = "modules/Cap.19/pkg/main.go"
+mode = "compile"
+hint = """
+HINT HERE"""
